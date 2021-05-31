@@ -2,7 +2,7 @@
 
 A repository for Rserve binaries compiled for cooperative mode.
 
-Windows: Rserve_1.8-7.zip
+Windows: Rserve_1.8-7.zip, Rserve_1.8-8.zip
 
 MacOSX : Rserve_1.8-7.tgz (R 4.0.x), Rserve_1.8-8.tgz (R >= 4.1)
 
