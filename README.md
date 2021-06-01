@@ -6,7 +6,7 @@ Windows: Rserve_1.8-7.zip, Rserve_1.8-8.zip
 
 MacOSX : Rserve_1.8-7.tgz (R 4.0.x), Rserve_1.8-8.tgz (R >= 4.1)
 
-Linux  : Rserve_1.8-7.tar.gz
+Linux  : Rserve_1.8-7.tar.gz, Rserve_1.8-8.tar.gz
 
 #### Installation from Github (1) or local installation (2) on Windows, MacOSX and Linux from the R command line (please adapt the file path!):
 
