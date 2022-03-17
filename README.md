@@ -22,6 +22,12 @@ Linux  : Rserve_1.8-7.tar.gz, Rserve_1.8-8.tar.gz
 
 2. install.packages("/Users/xxx/Rserve_1.8-7.tgz", repos=NULL)
 
+#### MacOSX ARM:
+
+1. install.packages("https://raw.github.com/Bio7/Rserve-Cooperative/master/Rserve_1.8-10_arm.tgz", repos = NULL)
+
+2. install.packages("/Users/xxx/Rserve_1.8-10_arm.tgz", repos=NULL)
+
 #### Linux (Compiled with Ubuntu 20.10):
 
 1. install.packages("https://raw.github.com/Bio7/Rserve-Cooperative/master/Rserve_1.8-7.tar.gz", repos = NULL)
