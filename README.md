@@ -12,15 +12,15 @@ Linux  : Rserve_1.8-7.tar.gz, Rserve_1.8-8.tar.gz
 
 #### Windows:
 
-1. install.packages("https://raw.github.com/Bio7/Rserve-Cooperative/master/Rserve_1.8-7.zip", repos = NULL)
+1. install.packages("https://raw.github.com/Bio7/Rserve-Cooperative/master/Rserve_1.8-8.zip", repos = NULL)
 
-2. install.packages("C:/xxx/Rserve_1.8-7.zip", repos=NULL)
+2. install.packages("C:/xxx/Rserve_1.8-8.zip", repos=NULL)
 
 #### MacOSX:
 
-1. install.packages("https://raw.github.com/Bio7/Rserve-Cooperative/master/Rserve_1.8-7.tgz", repos = NULL)
+1. install.packages("https://raw.github.com/Bio7/Rserve-Cooperative/master/Rserve_1.8-8.tgz", repos = NULL)
 
-2. install.packages("/Users/xxx/Rserve_1.8-7.tgz", repos=NULL)
+2. install.packages("/Users/xxx/Rserve_1.8-8.tgz", repos=NULL)
 
 #### MacOSX ARM:
 
@@ -30,9 +30,9 @@ Linux  : Rserve_1.8-7.tar.gz, Rserve_1.8-8.tar.gz
 
 #### Linux (Compiled with Ubuntu 20.10):
 
-1. install.packages("https://raw.github.com/Bio7/Rserve-Cooperative/master/Rserve_1.8-7.tar.gz", repos = NULL)
+1. install.packages("https://raw.github.com/Bio7/Rserve-Cooperative/master/Rserve_1.8-8.tar.gz", repos = NULL)
 
-2. install.packages("/home/xxx/Rserve_1.8-7.tar.gz", repos=NULL)
+2. install.packages("/home/xxx/Rserve_1.8-8.tar.gz", repos=NULL)
 
 #### Cooperative Mode
 
