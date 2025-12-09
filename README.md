@@ -26,9 +26,9 @@ Linux AARCH : Rserve_1.8-15_Linux_aarch64.tar.gz
 
 #### MacOSX ARM:
 
-1. install.packages("https://raw.github.com/Bio7/Rserve-Cooperative/master/Rserve_1.8-15_Mac_aarch64.tgz", repos = NULL)
+1. install.packages("https://raw.github.com/Bio7/Rserve-Cooperative/master/Rserve_1.8-15_Mac_arm64.tgz", repos = NULL)
 
-2. install.packages("/Users/xxx/Rserve_1.8-15_Mac_aarch64.tgz", repos=NULL)
+2. install.packages("/Users/xxx/Rserve_1.8-15_Mac_arm64.tgz", repos=NULL)
 
 #### Linux (Compiled with Ubuntu 20.10):
 
