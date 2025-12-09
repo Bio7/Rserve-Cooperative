@@ -4,11 +4,11 @@
 
 Windows: Rserve_1.8-7.zip, Rserve_1.8-8.zip
 
-MacOSX : Rserve_1.8-7.tgz (R 4.0.x), Rserve_1.8-8.tgz (install for R >= 4.1)
+MacOSX : Rserve_1.8-15_Mac_arm64.tgz
 
 Linux  : Rserve_1.8-7.tar.gz, Rserve_1.8-8.tar.gz
 
-Linux AARCH : 
+Linux AARCH : Rserve_1.8-15_Linux_aarch64.tar.gz
 
 #### Installation from Github (1) or local installation (2) on Windows, MacOSX and Linux from the R command line (please adapt the file path!):
 
@@ -38,9 +38,9 @@ Linux AARCH :
 
 #### Linux AARCH:
 
-1. install.packages("https://raw.github.com/Bio7/Rserve-Cooperative/master/Rserve_1.8-15.tar.gz", repos = NULL)
+1. install.packages("https://raw.github.com/Bio7/Rserve-Cooperative/master/Rserve_1.8-15_Linux_aarch64.tar.gz", repos = NULL)
 
-2. install.packages("/home/xxx/Rserve_1.8-15.tar.gz", repos=NULL)
+2. install.packages("/home/xxx/Rserve_1.8-15_Linux_aarch64.tar.gz", repos=NULL)
 
 #### Cooperative Mode
 
