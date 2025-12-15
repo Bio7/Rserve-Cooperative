@@ -34,7 +34,7 @@ Linux AARCH : Rserve_1.8-15_Linux_aarch64.tar.gz
 
 1. install.packages("https://raw.github.com/Bio7/Rserve-Cooperative/master/Rserve_1.8-15_Linux_x86_64.tar.gz", repos = NULL)
 
-2. install.packages("/home/xxx/Rserve_1.8-8.tar.gz", repos=NULL)
+2. install.packages("/home/xxx/Rserve_1.8-15_Linux_x86_64.tar.gz", repos=NULL)
 
 #### Linux AARCH:
 
