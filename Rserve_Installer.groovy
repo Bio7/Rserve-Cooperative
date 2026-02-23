@@ -27,7 +27,7 @@ def installRserve() {
             
         case "Mac":
             // Apple aarch64
-            String macFile = (arch == "aarch64") ? "Rserve_1.8-15_Mac_arm64.tgz"
+            String macFile = (arch == "aarch64") ? "Rserve_1.8-15_Mac_arm64.tgz" : null
             installCmd = "install.packages(\"https://raw.github.com/Bio7/Rserve-Cooperative/master/$macFile\", repos = NULL)"
             break
             
