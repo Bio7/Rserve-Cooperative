@@ -6,7 +6,7 @@ Windows: Rserve_1.8-7.zip, Rserve_1.8-8.zip
 
 MacOSX : Rserve_1.8-15_Mac_arm64.tgz
 
-Linux  : Rserve_1.8-7.tar.gz, Rserve_1.8-8.tar.gz
+Linux  : Rserve_1.8-7.tar.gz, Rserve_1.8-8.tar.gz, Rserve_1.8-15_Linux_x86_64.tar.gz
 
 Linux AARCH : Rserve_1.8-15_Linux_aarch64.tar.gz
 
@@ -26,15 +26,15 @@ Linux AARCH : Rserve_1.8-15_Linux_aarch64.tar.gz
 
 #### MacOSX ARM:
 
-1. install.packages("https://raw.github.com/Bio7/Rserve-Cooperative/master/Rserve_1.8-15_Mac_aarch64.tgz", repos = NULL)
+1. install.packages("https://raw.github.com/Bio7/Rserve-Cooperative/master/Rserve_1.8-15_Mac_arm64.tgz", repos = NULL)
 
-2. install.packages("/Users/xxx/Rserve_1.8-15_Mac_aarch64.tgz", repos=NULL)
+2. install.packages("/Users/xxx/Rserve_1.8-15_Mac_arm64.tgz", repos=NULL)
 
 #### Linux (Compiled with Ubuntu 20.10):
 
-1. install.packages("https://raw.github.com/Bio7/Rserve-Cooperative/master/Rserve_1.8-8.tar.gz", repos = NULL)
+1. install.packages("https://raw.github.com/Bio7/Rserve-Cooperative/master/Rserve_1.8-15_Linux_x86_64.tar.gz", repos = NULL)
 
-2. install.packages("/home/xxx/Rserve_1.8-8.tar.gz", repos=NULL)
+2. install.packages("/home/xxx/Rserve_1.8-15_Linux_x86_64.tar.gz", repos=NULL)
 
 #### Linux AARCH:
 
